@@ -17,4 +17,5 @@
       R.AR
   </author>
 
+  <icon src="icon.png" />
 </widget>
